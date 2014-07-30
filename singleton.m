@@ -1,9 +1,11 @@
 // Shared Singleton
 // Class method that returns a singleton instance
-// 
-// Platform: All
+//
+// IDECodeSnippetIdentifier: 19C15570-C4FF-44BF-B8CC-94522E1F0E36
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Class Implementation
+// Platform: All
 
 + (instancetype)shared<#name#> {
     static <#class#> *_shared<#name#> = nil;

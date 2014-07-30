@@ -1,9 +1,11 @@
 // MFMailComposeViewController Initialization & Delegate
 // Methods required to use the iOS Mail Composer
 //
-// Platform: iOS
+// IDECodeSnippetIdentifier: A7FE3DB8-6EED-4313-B636-9F15FDC67803
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Class Implementation
+// Platform: iOS
 
 #import <MessageUI/MessageUI.h>
 

@@ -1,9 +1,11 @@
 // UIPickerViewDataSource
 // Placeholders for required UIPickerView datasource methods
 //
-// Platform: iOS
+// IDECodeSnippetIdentifier: 988F65AC-5D91-4E7E-8C2B-F3283B60BEBA
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Class Implementation
+// Platform: iOS
 
 #pragma mark - UIPickerDataSource
 

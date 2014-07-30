@@ -1,9 +1,11 @@
 // UIPickerViewDelegate
 // Placeholders for required UIPickerView Delegate methods
 //
-// Platform: iOS
+// IDECodeSnippetIdentifier: 6D8B723A-E7E9-4330-AB96-97642E9B4998
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Class Implementation
+// Platform: iOS
 
 #pragma mark - UIPickerViewDelegate
 
